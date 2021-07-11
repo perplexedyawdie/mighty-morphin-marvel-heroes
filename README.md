@@ -28,3 +28,11 @@ source env/bin/activate
 pip3 install numpy scikit_image opencv_python Pillow cmake dlib
 ```
 
+Attributions
+-------------
+
+Face Morph - [Azmarie Face Morphing](https://github.com/Azmarie/Face-Morphing)
+
+Marvel Heroes - [Alberto Russo Drawing + Painting](https://linktr.ee/alberto_sting)
+
+
